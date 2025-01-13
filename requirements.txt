@@ -1,0 +1,7 @@
+# untuk menginstall kebutuhan yang ada disini gunakan perintah di terminal "pip3 install requirements.txt".
+
+streamlit 
+torch 
+torchvision 
+Pillow
+numpy==1.24.3
